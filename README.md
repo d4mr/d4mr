@@ -1,6 +1,6 @@
 # d4mr
 
-**Prithvish Baidya** — infra engineer — [d4mr.com](https://d4mr.com)
+**Prithvish Baidya** — systems engineer — [d4mr.com](https://d4mr.com)
 
 You might also know me as **earthish** or **d4mr** (deformer).
 
